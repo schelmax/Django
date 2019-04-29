@@ -17,4 +17,4 @@
   友情链接：[奈飞在线高清影视](https://www.nfmovies.com/), [远鉴字幕组电报交流群](https://t.me/joinchat/KmUaGRU5OgWsuv27BABIDg), [Pan Download电报交流群](https://t.me/joinchat/Lz9fSlOgUUyinc5N7Gv6tg)
  
         
-         2019 All Rights Reserved 
+   2019 All Rights Reserved 
