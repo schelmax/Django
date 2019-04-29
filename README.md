@@ -12,9 +12,11 @@
 
 5.有禾斗学（fanqiang）上网需求的同学，点击[Freein 1984](https://freein1984.com/),可使用邀请码 010366E044CF 注册，获取额外试用流量。
 
-6.请务必遵守中华人民共和国法律法规之要求。资源链接失效和其他疑问请及时邮箱联系或酷安私信。 
+6.请务必遵守中华人民共和国法律法规之要求。资源链接失效和其他疑问请及时邮箱联系或酷安私信。
 
-  友情链接：[奈飞在线高清影视](https://www.nfmovies.com/), [远鉴字幕组电报交流群](https://t.me/joinchat/KmUaGRU5OgWsuv27BABIDg), [Pan Download电报交流群](https://t.me/joinchat/Lz9fSlOgUUyinc5N7Gv6tg)
+备用链接 [qihang.eu5.org](http://qihang.eu5.org/), [woyun.tk](http://woyun.tk/), [djangoyun.ml](http://djangoyun.ml/), [qihang.ml](http://qihang.ml/), [qihangyun.ga](http://qihangyun.ga/), 推荐另存书签。
+
+友情链接：[奈飞在线高清影视](https://www.nfmovies.com/), [远鉴字幕组电报交流群](https://t.me/joinchat/KmUaGRU5OgWsuv27BABIDg), [Pan Download电报交流群](https://t.me/joinchat/Lz9fSlOgUUyinc5N7Gv6tg)
  
         
-   2019 All Rights Reserved 
+ 2019 All Rights Reserved 
