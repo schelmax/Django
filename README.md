@@ -19,11 +19,11 @@
 
 >公共网盘无限容量，便利大家存储临时文件；
 
->>禁止上传任何违法违规文件，上传内容更新同步到网页最多延迟10分钟，请耐心等待；
+>>禁止上传任何违法违规文件，请勿上传隐私文件，勿上传文件请及时联系我删除；
 
->>>需要整理的文件请新建文件夹或者文件名做好标注，我会稍后整理。
+>>>上传内容更新同步到网页最多延迟10分钟，请耐心等待需要整理的文件请新建文件夹或者文件名做好标注，我会稍后整理。
         
-Github开源支持，源码请戳此[oneindex](https://github.com/donwa/oneindex), 美化教程需感谢酷安ID：[灰白衬衫](https://www.coolapk.com/feed/9602887?shareKey=NDQ2M2Q1ODk4MWI3NWNjODQyZTQ~&shareUid=885730&shareFrom=com.coolapk.market_9.1.1)的指导。
+Github开源支持，源码请戳[Oneindex](https://github.com/donwa/oneindex), 美化教程需感谢酷安ID：[灰白衬衫](https://www.coolapk.com/feed/9602887?shareKey=NDQ2M2Q1ODk4MWI3NWNjODQyZTQ~&shareUid=885730&shareFrom=com.coolapk.market_9.1.1)的指导。
   
 备用链接 [qihang.eu5.org](http://qihang.eu5.org/), [woyun.tk](http://woyun.tk/), [djangoyun.ml](http://djangoyun.ml/), [qihang.ml](http://qihang.ml/), [qihangyun.ga](http://qihangyun.ga/), 推荐另存书签。
  
