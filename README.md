@@ -14,12 +14,8 @@
 
 6.请务必遵守中华人民共和国`法律法规`之要求。资源链接失效和其他疑问请及时`邮箱联系`或`酷安私信`。
 
-备用链接 [qihang.eu5.org](http://qihang.eu5.org/), [woyun.tk](http://woyun.tk/), [djangoyun.ml](http://djangoyun.ml/), [qihang.ml](http://qihang.ml/), [qihangyun.ga](http://qihangyun.ga/), 推荐另存书签。
 
-友情链接：[奈飞在线高清影视](https://www.nfmovies.com/), [远鉴字幕组电报交流群](https://t.me/joinchat/KmUaGRU5OgWsuv27BABIDg), [Pan Download电报交流群](https://t.me/joinchat/Lz9fSlOgUUyinc5N7Gv6tg)
- 
- 
-***[点击此处](https://hawkcj4-my.sharepoint.com/:f:/g/personal/xls1006_officework_top/EkYFg-alpn1Pj5gaGyBImvABR3LCplByUHOkiR0Hya72zg?e=bw9kBy)*** 上传文件到公共网盘文件夹
+>***[点击此处](https://hawkcj4-my.sharepoint.com/:f:/g/personal/xls1006_officework_top/EkYFg-alpn1Pj5gaGyBImvABR3LCplByUHOkiR0Hya72zg?e=bw9kBy)*** 上传文件到公共网盘文件夹
 
 >公共网盘无限容量，便利大家存储临时文件
 
@@ -27,4 +23,7 @@
 
 >>>需要整理的文件请新建文件夹或者文件名做好标注，我会稍后整理
         
-   2019 All Rights Reserved 
+Github开源支持，源码请戳此[oneindex](https://github.com/donwa/oneindex)
+  
+备用链接 [qihang.eu5.org](http://qihang.eu5.org/), [woyun.tk](http://woyun.tk/), [djangoyun.ml](http://djangoyun.ml/), [qihang.ml](http://qihang.ml/), [qihangyun.ga](http://qihangyun.ga/), 推荐另存书签。
+ 
