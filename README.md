@@ -20,5 +20,9 @@
  
  
 ***[点击此处](https://hawkcj4-my.sharepoint.com/:f:/g/personal/xls1006_officework_top/EkYFg-alpn1Pj5gaGyBImvABR3LCplByUHOkiR0Hya72zg?e=bw9kBy)上传文件到公共网盘文件夹***
+
+**禁止上传任何违法违规文件，上传内容更新同步到网页最多延迟10分钟，请耐心等待**
+
+**需要整理的文件请新建文件夹或者文件名做好标注，我会稍后整理**
         
    2019 All Rights Reserved 
