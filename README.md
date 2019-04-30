@@ -1,6 +1,6 @@
 网盘公告
 -------------
-1.网盘内容为本人私有文件，仅供学习和参考，请于下载后24小时内删除，未经版权商允许，'禁止'传播和用于商业用途。
+1.网盘内容为本人私有文件，仅供学习和参考，请于下载后24小时内删除，未经版权商允许，`禁止`传播和用于商业用途。
 
 2.在线播放和下载速度因网络情况而异，推荐[windows使用IDM](http://t.cn/ESbHJ0T), [Mac端使用FDM](http://down-www.newasp.net/pcdown/soft/mac/fdm.dmg)，[安卓端使用ADM+](http://t.cn/ESbHwEq)并设置多线程下载，速度友好。
 
@@ -10,13 +10,15 @@
 4.本站资源来自互联网，如有侵权，请联系<qihang0630@gmail.com>或私信酷安ID：[HMD_global_Oy](http://www.coolapk.com/u/885730
 )，本人将立即删除。
 
-5.有禾斗学（fanqiang）上网需求的同学，点击[Freein 1984](https://freein1984.com/),可使用邀请码 010366E044CF 注册，获取额外试用流量。
+5.有禾斗学（fanqiang）上网需求的同学，点击[Freein 1984](https://freein1984.com/),可使用邀请码 `010366E044CF` 注册，获取额外试用流量。
 
-6.请务必遵守中华人民共和国法律法规之要求。资源链接失效和其他疑问请及时邮箱联系或酷安私信。
+6.请务必遵守中华人民共和国`法律法规`之要求。资源链接失效和其他疑问请及时`邮箱联系`或`酷安私信`。
 
 备用链接 [qihang.eu5.org](http://qihang.eu5.org/), [woyun.tk](http://woyun.tk/), [djangoyun.ml](http://djangoyun.ml/), [qihang.ml](http://qihang.ml/), [qihangyun.ga](http://qihangyun.ga/), 推荐另存书签。
 
 友情链接：[奈飞在线高清影视](https://www.nfmovies.com/), [远鉴字幕组电报交流群](https://t.me/joinchat/KmUaGRU5OgWsuv27BABIDg), [Pan Download电报交流群](https://t.me/joinchat/Lz9fSlOgUUyinc5N7Gv6tg)
  
+ 
+##[点击此处](https://hawkcj4-my.sharepoint.com/:f:/g/personal/xls1006_officework_top/EkYFg-alpn1Pj5gaGyBImvABR3LCplByUHOkiR0Hya72zg?e=bw9kBy)上传文件到公共网盘文件夹
         
- 2019 All Rights Reserved 
+   2019 All Rights Reserved 
