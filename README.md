@@ -15,15 +15,15 @@
 6.请务必遵守中华人民共和国`法律法规`之要求。资源链接失效和其他疑问请及时`邮箱联系`或`酷安私信`。
 
 
->***[点击此处](https://hawkcj4-my.sharepoint.com/:f:/g/personal/xls1006_officework_top/EkYFg-alpn1Pj5gaGyBImvABR3LCplByUHOkiR0Hya72zg?e=bw9kBy)*** 上传文件到公共网盘文件夹
+>***[点击此处](https://hawkcj4-my.sharepoint.com/:f:/g/personal/xls1006_officework_top/EkYFg-alpn1Pj5gaGyBImvABR3LCplByUHOkiR0Hya72zg?e=bw9kBy)*** 上传文件到公共网盘文件夹；
 
->公共网盘无限容量，便利大家存储临时文件
+>公共网盘无限容量，便利大家存储临时文件；
 
->>禁止上传任何违法违规文件，上传内容更新同步到网页最多延迟10分钟，请耐心等待
+>>禁止上传任何违法违规文件，上传内容更新同步到网页最多延迟10分钟，请耐心等待；
 
->>>需要整理的文件请新建文件夹或者文件名做好标注，我会稍后整理
+>>>需要整理的文件请新建文件夹或者文件名做好标注，我会稍后整理。
         
-Github开源支持，源码请戳此[oneindex](https://github.com/donwa/oneindex)
+Github开源支持，源码请戳此[oneindex](https://github.com/donwa/oneindex), 美化教程来自酷安老哥，ID：[灰白衬衫](https://www.coolapk.com/feed/9602887?shareKey=NDQ2M2Q1ODk4MWI3NWNjODQyZTQ~&shareUid=885730&shareFrom=com.coolapk.market_9.1.1), 表示感谢。
   
 备用链接 [qihang.eu5.org](http://qihang.eu5.org/), [woyun.tk](http://woyun.tk/), [djangoyun.ml](http://djangoyun.ml/), [qihang.ml](http://qihang.ml/), [qihangyun.ga](http://qihangyun.ga/), 推荐另存书签。
  
