@@ -23,7 +23,7 @@
 
 >>>需要整理的文件请新建文件夹或者文件名做好标注，我会稍后整理。
         
-Github开源支持，源码请戳此[oneindex](https://github.com/donwa/oneindex), 美化教程来自酷安老哥，ID：[灰白衬衫](https://www.coolapk.com/feed/9602887?shareKey=NDQ2M2Q1ODk4MWI3NWNjODQyZTQ~&shareUid=885730&shareFrom=com.coolapk.market_9.1.1), 表示感谢。
+Github开源支持，源码请戳此[oneindex](https://github.com/donwa/oneindex), 美化教程需感谢酷安ID：[灰白衬衫](https://www.coolapk.com/feed/9602887?shareKey=NDQ2M2Q1ODk4MWI3NWNjODQyZTQ~&shareUid=885730&shareFrom=com.coolapk.market_9.1.1)的指导。
   
 备用链接 [qihang.eu5.org](http://qihang.eu5.org/), [woyun.tk](http://woyun.tk/), [djangoyun.ml](http://djangoyun.ml/), [qihang.ml](http://qihang.ml/), [qihangyun.ga](http://qihangyun.ga/), 推荐另存书签。
  
